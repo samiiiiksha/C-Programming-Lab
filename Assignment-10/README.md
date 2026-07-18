@@ -1,4 +1,4 @@
-# LeetCode Array Challenge in C
+# LeetCode Array Challenge
 
 ## Objective
 
